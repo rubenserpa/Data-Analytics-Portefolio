@@ -1,4 +1,4 @@
-setwd('C:\\Users\\maria\\Desktop\\Statistics Project')
+setwd('C:\\Users\\ruben\\Desktop\\Statistics Project')
 getwd()
 
 library(readxl)
