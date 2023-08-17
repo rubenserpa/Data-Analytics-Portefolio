@@ -1,4 +1,4 @@
-# Data-Analytics-Portefolio
+# Data-Analytics-Portfolio
 
 Welcome to my Data Analytics Portfolio! Here, you'll discover a diverse compilation of projects that spotlight my expertise in machine learning, business intelligence, relational databases, and various data analytics techniques.
 
