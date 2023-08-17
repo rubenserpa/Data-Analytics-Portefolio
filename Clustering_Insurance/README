@@ -1,0 +1,69 @@
+### A2Z Insurance Customer Segmentation Project
+
+Welcome to the A2Z Insurance Customer Segmentation Project! This project focuses on utilizing data analytics techniques to enhance customer understanding and refine marketing strategies for A2Z Insurance.
+
+## General Context
+
+In today's competitive landscape, gaining insights into customer behavior and preferences is essential for businesses. The process begins with analyzing existing customer data to uncover patterns and segments that can inform personalized marketing efforts. This project centers around using data-driven approaches to segment A2Z Insurance's customer base, ultimately leading to improved customer satisfaction and business growth.
+
+## Business Situation
+
+A2Z Insurance, a well-established insurance company in Portugal, offers various insurance services to a diverse clientele. However, the lack of data-driven decision-making has hindered their ability to target customers effectively. The goal of this project is to assist A2Z in leveraging their customer data to create meaningful customer segments, enabling tailored marketing campaigns and better customer engagement.
+
+## Project Objectives
+
+The primary objectives of this project are as follows:
+
+1. **Data Exploration:** Thoroughly explore the provided dataset to identify relevant variables for customer segmentation.
+
+2. **Customer Segmentation:** Utilize clustering techniques to group customers based on shared characteristics, behaviors, and preferences.
+
+3. **Cluster Interpretation:** Interpret and describe the identified customer clusters to provide actionable insights to A2Z Insurance.
+
+4. **Business Impact:** Suggest concrete marketing strategies and approaches for each customer segment, aligning with A2Z's business goals.
+
+## Dataset and Variables
+
+The dataset contains a sample of 10,290 customers from A2Z Insurance's active database. Key variables include:
+
+- **ID:** Customer ID
+- **First Policy Year:** Year of the customer's first policy
+- **Birthday:** Customer's birth year
+- **Education:** Academic degree
+- **Salary:** Gross monthly salary (€)
+- **Area:** Living area code
+- **Children:** Binary variable indicating children (Y=1)
+- **CMV:** Customer Monetary Value
+- **Claims:** Claims Rate
+- **Motor Premiums:** Premiums in LOB: Motor (€)
+- **Household Premiums:** Premiums in LOB: Household (€)
+- **Health Premiums:** Premiums in LOB: Health (€)
+- **Life Premiums:** Premiums in LOB: Life (€)
+- **Work Compensation Premiums:** Premiums in LOB: Work Compensations (€)
+
+## Expected Outcomes
+
+By the end of this project, we aim to achieve:
+
+- A detailed segmentation of A2Z Insurance's customer base.
+- Insights into distinct customer segments and their characteristics.
+- A rationale for the chosen number of clusters and segmentation approach.
+- Practical marketing strategies tailored to each customer segment.
+
+## Getting Started
+
+1. Clone this repository to your local machine.
+2. Explore the dataset provided in the `A2Z_Insurance.csv` file.
+3. Utilize data analysis tools (Python, Jupyter Notebook) to conduct your analysis.
+4. Document your findings and insights in your project documentation.
+
+## Contact Information
+
+Feel free to reach out with any questions or feedback:
+
+- Your Name: [Your Name]
+- Email: [Your Email Address]
+- LinkedIn: [Your LinkedIn Profile]
+
+We're excited to witness your exploration and insights into A2Z Insurance's customer segmentation. Good luck and enjoy the journey!
+
